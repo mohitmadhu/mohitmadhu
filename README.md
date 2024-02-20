@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mohitmadhu
 - 👀 I’m interested in coding
-- 🌱 I’m currently working as Assistant Engineer at ECS Fin,Trivandrum
+- 🌱 I worked as Assistant Software Engineer at ECS Fin,Trivandrum
+-   Now I'm currenting working as UI/UX intern at Mentorow Technologies, Kochi
 - 💞️ I’m looking to learn more on coding 
 
 
